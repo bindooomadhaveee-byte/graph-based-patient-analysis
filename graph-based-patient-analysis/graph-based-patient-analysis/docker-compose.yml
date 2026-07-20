@@ -1,0 +1,28 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_NAME=graph-based-patient-analysis
+      - LOG_LEVEL=INFO
+      - USE_NEO4J=false
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+
+  # Optional persistent graph database backend. Not used by default in this
+  # base project (NetworkX runs in-memory in the `api` service), but wired
+  # up here so it's a one-line swap when you outgrow in-memory graphs.
+  # neo4j:
+  #   image: neo4j:5.22-community
+  #   ports:
+  #     - "7474:7474"   # browser UI
+  #     - "7687:7687"   # bolt protocol
+  #   environment:
+  #     - NEO4J_AUTH=neo4j/change_me
+  #   volumes:
+  #     - neo4j_data:/data
+
+# volumes:
+#   neo4j_data:

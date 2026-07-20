@@ -1,0 +1,1803 @@
+{
+  "records": [
+    {
+      "patient_id": "P-00001",
+      "age": 18,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "M17.9",
+          "description": "Osteoarthritis of knee, unspecified"
+        },
+        {
+          "code": "M25.50",
+          "description": "Pain in unspecified joint"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197806",
+          "name": "Ibuprofen 600mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-001",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-014",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-023",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00002",
+      "age": 35,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications"
+        },
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        }
+      ],
+      "medications": [
+        {
+          "code": "617314",
+          "name": "Atorvastatin 20mg"
+        },
+        {
+          "code": "197380",
+          "name": "Escitalopram 10mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00003",
+      "age": 57,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        },
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "medications": [],
+      "encounters": [
+        {
+          "provider_id": "PR-006",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00004",
+      "age": 93,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197380",
+          "name": "Escitalopram 10mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-019",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-016",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-024",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-014",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00005",
+      "age": 23,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        }
+      ],
+      "medications": [
+        {
+          "code": "312938",
+          "name": "Sertraline 50mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-012",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00006",
+      "age": 94,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "312938",
+          "name": "Sertraline 50mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00007",
+      "age": 70,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        },
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "312938",
+          "name": "Sertraline 50mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-024",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-005",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-007",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00008",
+      "age": 8,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        },
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        },
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-018",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-006",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00009",
+      "age": 71,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197361",
+          "name": "Lisinopril 10mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-009",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-020",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00010",
+      "age": 45,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified"
+        },
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "medications": [
+        {
+          "code": "896188",
+          "name": "Fluticasone/salmeterol"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-023",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-016",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-004",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-010",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00011",
+      "age": 44,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications"
+        },
+        {
+          "code": "I10",
+          "description": "Essential (primary) hypertension"
+        }
+      ],
+      "medications": [
+        {
+          "code": "860975",
+          "name": "Metformin 500mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-024",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00012",
+      "age": 58,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        },
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "896188",
+          "name": "Fluticasone/salmeterol"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-002",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-010",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-007",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-010",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00013",
+      "age": 10,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        },
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified"
+        },
+        {
+          "code": "M54.5",
+          "description": "Low back pain"
+        },
+        {
+          "code": "M17.9",
+          "description": "Osteoarthritis of knee, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "312938",
+          "name": "Sertraline 50mg"
+        },
+        {
+          "code": "745679",
+          "name": "Albuterol HFA inhaler"
+        },
+        {
+          "code": "866924",
+          "name": "Acetaminophen 500mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-016",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-022",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00014",
+      "age": 38,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-011",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-007",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00015",
+      "age": 87,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        },
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        },
+        {
+          "code": "312938",
+          "name": "Sertraline 50mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-020",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-009",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00016",
+      "age": 44,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        },
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "896188",
+          "name": "Fluticasone/salmeterol"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-013",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00017",
+      "age": 17,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        },
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-010",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-018",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-015",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00018",
+      "age": 14,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "I25.10",
+          "description": "Atherosclerotic heart disease"
+        },
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        }
+      ],
+      "medications": [
+        {
+          "code": "860975",
+          "name": "Metformin 500mg"
+        },
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-004",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-006",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00019",
+      "age": 31,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "E66.9",
+          "description": "Obesity, unspecified"
+        },
+        {
+          "code": "E78.5",
+          "description": "Hyperlipidemia, unspecified"
+        },
+        {
+          "code": "M17.9",
+          "description": "Osteoarthritis of knee, unspecified"
+        },
+        {
+          "code": "M54.5",
+          "description": "Low back pain"
+        }
+      ],
+      "medications": [
+        {
+          "code": "617314",
+          "name": "Atorvastatin 20mg"
+        },
+        {
+          "code": "866924",
+          "name": "Acetaminophen 500mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-001",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00020",
+      "age": 38,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        }
+      ],
+      "medications": [],
+      "encounters": [
+        {
+          "provider_id": "PR-004",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-007",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-023",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00021",
+      "age": 85,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-009",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00022",
+      "age": 58,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        },
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197380",
+          "name": "Escitalopram 10mg"
+        },
+        {
+          "code": "745679",
+          "name": "Albuterol HFA inhaler"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-008",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-008",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00023",
+      "age": 10,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications"
+        },
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197361",
+          "name": "Lisinopril 10mg"
+        },
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00024",
+      "age": 23,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        },
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        },
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "745679",
+          "name": "Albuterol HFA inhaler"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00025",
+      "age": 80,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "M54.5",
+          "description": "Low back pain"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197806",
+          "name": "Ibuprofen 600mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-022",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-014",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00026",
+      "age": 33,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "M17.9",
+          "description": "Osteoarthritis of knee, unspecified"
+        },
+        {
+          "code": "M54.5",
+          "description": "Low back pain"
+        },
+        {
+          "code": "E66.9",
+          "description": "Obesity, unspecified"
+        },
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197806",
+          "name": "Ibuprofen 600mg"
+        },
+        {
+          "code": "197361",
+          "name": "Lisinopril 10mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-019",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-005",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00027",
+      "age": 36,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        },
+        {
+          "code": "I10",
+          "description": "Essential (primary) hypertension"
+        },
+        {
+          "code": "E66.9",
+          "description": "Obesity, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "896188",
+          "name": "Fluticasone/salmeterol"
+        },
+        {
+          "code": "617314",
+          "name": "Atorvastatin 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-008",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-014",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-018",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-024",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00028",
+      "age": 36,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "I10",
+          "description": "Essential (primary) hypertension"
+        },
+        {
+          "code": "E66.9",
+          "description": "Obesity, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "617314",
+          "name": "Atorvastatin 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-018",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-006",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-023",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00029",
+      "age": 60,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        },
+        {
+          "code": "M17.9",
+          "description": "Osteoarthritis of knee, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        },
+        {
+          "code": "866924",
+          "name": "Acetaminophen 500mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-018",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-002",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-003",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00030",
+      "age": 81,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "E66.9",
+          "description": "Obesity, unspecified"
+        }
+      ],
+      "medications": [],
+      "encounters": [
+        {
+          "provider_id": "PR-015",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00031",
+      "age": 49,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        }
+      ],
+      "medications": [],
+      "encounters": [
+        {
+          "provider_id": "PR-014",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00032",
+      "age": 69,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        },
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "I10",
+          "description": "Essential (primary) hypertension"
+        },
+        {
+          "code": "E66.9",
+          "description": "Obesity, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        },
+        {
+          "code": "617314",
+          "name": "Atorvastatin 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-009",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-019",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00033",
+      "age": 88,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        },
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        },
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        }
+      ],
+      "medications": [
+        {
+          "code": "896188",
+          "name": "Fluticasone/salmeterol"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-004",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00034",
+      "age": 2,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified"
+        },
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        },
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications"
+        },
+        {
+          "code": "E66.9",
+          "description": "Obesity, unspecified"
+        },
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        },
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "896188",
+          "name": "Fluticasone/salmeterol"
+        },
+        {
+          "code": "197361",
+          "name": "Lisinopril 10mg"
+        },
+        {
+          "code": "197380",
+          "name": "Escitalopram 10mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-021",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00035",
+      "age": 49,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        },
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        },
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified"
+        },
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "medications": [
+        {
+          "code": "745679",
+          "name": "Albuterol HFA inhaler"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-022",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-019",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00036",
+      "age": 52,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        },
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "I25.10",
+          "description": "Atherosclerotic heart disease"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        },
+        {
+          "code": "860975",
+          "name": "Metformin 500mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00037",
+      "age": 2,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "M17.9",
+          "description": "Osteoarthritis of knee, unspecified"
+        },
+        {
+          "code": "M25.50",
+          "description": "Pain in unspecified joint"
+        },
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "E78.5",
+          "description": "Hyperlipidemia, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197806",
+          "name": "Ibuprofen 600mg"
+        },
+        {
+          "code": "197380",
+          "name": "Escitalopram 10mg"
+        },
+        {
+          "code": "197361",
+          "name": "Lisinopril 10mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-006",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00038",
+      "age": 91,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "M54.5",
+          "description": "Low back pain"
+        },
+        {
+          "code": "M25.50",
+          "description": "Pain in unspecified joint"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866924",
+          "name": "Acetaminophen 500mg"
+        },
+        {
+          "code": "197380",
+          "name": "Escitalopram 10mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-024",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-006",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-021",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00039",
+      "age": 92,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified"
+        },
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "896188",
+          "name": "Fluticasone/salmeterol"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-023",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-009",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-023",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00040",
+      "age": 85,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        },
+        {
+          "code": "M25.50",
+          "description": "Pain in unspecified joint"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        },
+        {
+          "code": "866924",
+          "name": "Acetaminophen 500mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-020",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-015",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00041",
+      "age": 21,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "M17.9",
+          "description": "Osteoarthritis of knee, unspecified"
+        },
+        {
+          "code": "M54.5",
+          "description": "Low back pain"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "F41.9",
+          "description": "Anxiety disorder, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197806",
+          "name": "Ibuprofen 600mg"
+        },
+        {
+          "code": "197380",
+          "name": "Escitalopram 10mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-004",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-002",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-020",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-025",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00042",
+      "age": 88,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-008",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00043",
+      "age": 30,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "J45.909",
+          "description": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "medications": [],
+      "encounters": [
+        {
+          "provider_id": "PR-018",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-013",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-015",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-009",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00044",
+      "age": 64,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "I25.10",
+          "description": "Atherosclerotic heart disease"
+        },
+        {
+          "code": "N18.3",
+          "description": "Chronic kidney disease, stage 3"
+        },
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        },
+        {
+          "code": "M54.5",
+          "description": "Low back pain"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197361",
+          "name": "Lisinopril 10mg"
+        },
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        },
+        {
+          "code": "197806",
+          "name": "Ibuprofen 600mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-009",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-003",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-021",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-001",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00045",
+      "age": 69,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "896188",
+          "name": "Fluticasone/salmeterol"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-007",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00046",
+      "age": 64,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified"
+        },
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified"
+        },
+        {
+          "code": "M54.5",
+          "description": "Low back pain"
+        }
+      ],
+      "medications": [
+        {
+          "code": "197806",
+          "name": "Ibuprofen 600mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-014",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-023",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-021",
+          "encounter_type": "telehealth"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00047",
+      "age": 8,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        }
+      ],
+      "medications": [],
+      "encounters": [
+        {
+          "provider_id": "PR-023",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00048",
+      "age": 79,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications"
+        }
+      ],
+      "medications": [],
+      "encounters": [
+        {
+          "provider_id": "PR-002",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-021",
+          "encounter_type": "outpatient"
+        },
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "inpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00049",
+      "age": 13,
+      "sex": "F",
+      "diagnoses": [
+        {
+          "code": "N39.0",
+          "description": "Urinary tract infection, site not specified"
+        }
+      ],
+      "medications": [
+        {
+          "code": "866414",
+          "name": "Furosemide 20mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-001",
+          "encounter_type": "telehealth"
+        },
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-003",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-011",
+          "encounter_type": "outpatient"
+        }
+      ]
+    },
+    {
+      "patient_id": "P-00050",
+      "age": 39,
+      "sex": "M",
+      "diagnoses": [
+        {
+          "code": "I10",
+          "description": "Essential (primary) hypertension"
+        },
+        {
+          "code": "E78.5",
+          "description": "Hyperlipidemia, unspecified"
+        },
+        {
+          "code": "F32.9",
+          "description": "Major depressive disorder, single episode, unspecified"
+        },
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder"
+        }
+      ],
+      "medications": [
+        {
+          "code": "860975",
+          "name": "Metformin 500mg"
+        }
+      ],
+      "encounters": [
+        {
+          "provider_id": "PR-011",
+          "encounter_type": "inpatient"
+        },
+        {
+          "provider_id": "PR-017",
+          "encounter_type": "inpatient"
+        }
+      ]
+    }
+  ]
+}

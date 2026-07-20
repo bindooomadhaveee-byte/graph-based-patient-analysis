@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.DS_Store
+data/*.json
+!data/sample_patients.json
